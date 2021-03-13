@@ -4,6 +4,7 @@ A curated list of awesome resources, repos, scripts, tools, queries and learning
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
+- [Learning Resources](#learning-resources)
 - [Threat Hunting](#threat-hunting)
 
 ## Learning Resources
