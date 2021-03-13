@@ -10,7 +10,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: [PACKAGE](LINK) - DESCRIPTION.
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
-- Ensure that descriptions follow standard markdown rules ![David Anson's Markdown Rules](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md#md041)
+- Ensure that descriptions follow standard markdown rules [David Anson's Markdown Rules](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md#md041)
 - End all descriptions with a full stop/period.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
