@@ -8,5 +8,5 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Threat Hunting
 
-- [Microsoft 365 Defender Hunting Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Collection of Defender Hunting queries from 
+- [Microsoft 365 Defender Hunting Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Collection of Defender Hunting queries from
 - [Kusto Query Language (KQL) queries for Advanced Hunting](https://github.com/wortell/KQL)
