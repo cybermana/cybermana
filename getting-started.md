@@ -29,6 +29,14 @@ The setup we've found works really well, particularly with the Microsoft cloud i
 2. Github Desktop - Well we couldn't talk Github without playing with this one.
 3. Visual Studio Extensions - This is one of the best bits about VSCode. There are literally thousands of opportunities here. So we'll walk you through some of them.
 
+## Continue your Github journey
+
+This **Getting Started** guide is intended to help you get started. Our biggest piece of advice would be to continue your Github journey so you can become a Github Master.
+
+To help you on your way, we've pulled together some **Awesome Github** resources that will hopefully help:
+
+- Introduction to Github in Visual Code [Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-studio-code/)
+
 ## Tips and tricks
 
 ### Adding images to your Github page?
