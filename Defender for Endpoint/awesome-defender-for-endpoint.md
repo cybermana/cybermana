@@ -4,7 +4,9 @@ A curated list of awesome resources, repos, scripts, tools, queries and learning
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-## Hunting queries
+- [Threat Hunting](#threat-hunting)
 
-*[Microsoft 365 Defender Hunting Queries by Microsoft](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries)
+## Threat Hunting
 
+- [Microsoft 365 Defender Hunting Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Collection of Defender Hunting queries from 
+- [Kusto Query Language (KQL) queries for Advanced Hunting](https://github.com/wortell/KQL)
