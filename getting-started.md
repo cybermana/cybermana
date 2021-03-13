@@ -14,7 +14,7 @@ So lets get started...
 
 ## Step 1 - What is Github and how does Git work?
 
-### Great resources!
+### Great resources
 
 - Markdown: David Anson has published a great Github repo about the markdown lint and the rules around it. [Check it out here](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md#md041)
 - What about emoji's? Rafael Xavier de Souza's repo has some great ideas around that. [Check out Rafael's repo here](https://gist.github.com/rxaviers/7360908)
@@ -28,3 +28,21 @@ The setup we've found works really well, particularly with the Microsoft cloud i
 1. Visual Studio Code (or VSCode) - This is a lightweight, integrated development environment (IDE) that is fast and very easy to use.
 2. Github Desktop - Well we couldn't talk Github without playing with this one.
 3. Visual Studio Extensions - This is one of the best bits about VSCode. There are literally thousands of opportunities here. So we'll walk you through some of them.
+
+## Tips and tricks
+
+### Adding images to your Github page?
+
+To make your Github page more interactive and visual, you can embed images into it. You can do this in one of two ways:
+
+**Option 1 - Reference an image hosted online** - Lets say that you want to embed an image from a website into your github page (such as the Cybermana logo on our website.) You simply add the relative URL for the image into your markdown syntax. For example:
+
+'''
+![alt text](https://website-url.com/imagename.png)
+'''
+
+**Option 2 - Reference an image within your Github repo** - With this option, all you have to do is upload the image you want to use into the folder structure of your Github repo and then reference it in exactly the same way as above. For example:
+
+'''
+![alt text](https://github.com/[reponame]/[folder]/imagename.png)
+'''
