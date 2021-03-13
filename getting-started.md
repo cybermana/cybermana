@@ -32,17 +32,3 @@ The setup we've found works really well, particularly with the Microsoft cloud i
 ## Tips and tricks
 
 ### Adding images to your Github page?
-
-To make your Github page more interactive and visual, you can embed images into it. You can do this in one of two ways:
-
-**Option 1 - Reference an image hosted online** - Lets say that you want to embed an image from a website into your github page (such as the Cybermana logo on our website.) You simply add the relative URL for the image into your markdown syntax. For example:
-
-'''
-![alt text](https://website-url.com/imagename.png)
-'''
-
-**Option 2 - Reference an image within your Github repo** - With this option, all you have to do is upload the image you want to use into the folder structure of your Github repo and then reference it in exactly the same way as above. For example:
-
-'''
-![alt text](https://github.com/[reponame]/[folder]/imagename.png)
-'''
