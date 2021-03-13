@@ -27,10 +27,12 @@ Key themes/topics that we talk about include:
 
 - Securing cloud platforms such as Microsoft Azure, AWS and Google Cloud Platform (GCP)
 - Threat protection with Microsoft Defender
+
     *Defender for Endpoint
     *Defender for Office
     *Defender for Servers
     *Cloud App Security
+
 - Threat hunting with the Kusto Query Language (KQL)
 - Scripts and utilities that will help you find vulnerabilities and secure your environment
 
