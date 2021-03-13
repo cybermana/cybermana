@@ -4,20 +4,11 @@ We think Github is awesome! The fact that you're reading this means that you pro
 
 But, like with all things, nobody knows everything about everything. And thats ok.
 
-Our mission is to empower you with the latest insights and practical guidance on how to unlock the power of cyber resilience in your business.
-
-And we think Github is a key enabler for that.
-
-So regardless of whether you are a Github Master or a Github N00b, we want to empower everybody with the latest insights and practical guidance to unlock the power of cyber resilience in your business.
+So regardless of whether you are a Github Master or just getting started, **our mission** is to empower you with the latest insights and practical guidance on how to unlock the power of cyber resilience in your business.
 
 So lets get started...
 
 ## Step 1 - What is Github and how does Git work?
-
-### Great resources
-
-- Markdown: David Anson has published a great Github repo about the markdown lint and the rules around it. [Check it out here](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md#md041)
-- What about emoji's? Rafael Xavier de Souza's repo has some great ideas around that. [Check out Rafael's repo here](https://gist.github.com/rxaviers/7360908)
 
 ## Step 2 - Lets get your environment setup
 
@@ -35,7 +26,11 @@ This **Getting Started** guide is intended to help you get started. Our biggest 
 
 To help you on your way, we've pulled together some **Awesome Github** resources that will hopefully help:
 
-- Introduction to Github in Visual Code [Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-studio-code/)
+- **Github Learning Lab**: Grow your skills by completing fun, realistic projects at your own pace by the makers of Github themselves. [Check it out here](https://lab.github.com/)
+- **Awesome Github Cheat Sheet**: Tim Green has pulled together some amazing resources to help anyone and everyone with their Github journey. [Check out Tim's Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- **Markdown**: David Anson has published a great Github repo about the markdown lint and the rules around it. [Check it out here](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md#md041)
+- **What about emoji's?** Rafael Xavier de Souza's repo has some great ideas around that. [Check out Rafael's repo here](https://gist.github.com/rxaviers/7360908)
+- **Introduction to Github in Visual Code**: As you know, we're big fans of VSCode. Check out this dedicated online course about working with Github and VSCode. [Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-studio-code/)
 
 ## Tips and tricks
 
