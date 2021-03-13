@@ -36,9 +36,8 @@ Key themes/topics that we talk about include:
 
 ## Join the community
 
--[Help others by contributing](https://github.com/cybermana/cybermana/blob/master/contributing.md)
--[Checkout the Cybermana Blog](https://cybermana.net)
--[Join our LinkedIn Community](https://www.linkedin.com/company/cybermana)
--[Join our Facebook Community](https://www.facebook.com/cybermanaUK/ )
--[Follow us on Twitter](https://twitter.com/CybermanaUK )
-
+- Want to help others by contributing? [Cybermana Contribution Guidelines](https://github.com/cybermana/cybermana/blob/master/contributing.md)
+- Checkout the Cybermana Blog (https://cybermana.net)
+- Join our [LinkedIn Community](https://www.linkedin.com/company/cybermana)
+- Join our [Facebook Community](https://www.facebook.com/cybermanaUK/ )
+- Follow us on [Twitter](https://twitter.com/CybermanaUK )
