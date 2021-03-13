@@ -17,4 +17,4 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Microsoft 365 Defender Hunting Queries by Microsoft](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries)
 - [Kusto Query Language (KQL) queries for Advanced Hunting by Wortell](https://github.com/wortell/KQL)
 - [Advanced Hunting by Jan Geisbauer](https://github.com/jangeisbauer/AdvancedHunting)
-- [Microsoft Defender for Endpoint Queries by ElLi Schlomo](https://github.com/eshlomo1/Microsoft-Defender-for-Endpoint-Queries)
+- [Microsoft Defender for Endpoint Queries by Elli Schlomo](https://github.com/eshlomo1/Microsoft-Defender-for-Endpoint-Queries)
