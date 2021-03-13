@@ -39,4 +39,6 @@ To help you on your way, we've pulled together some **Awesome Github** resources
 
 ## Tips and tricks
 
-### Adding images to your Github page?
+Every day is a school day right!?! So to help you learn from our lessons, we've been pulling together little **Tips and Tricks** that will hopefully help you too:
+
+- Adding images to your Github page?
