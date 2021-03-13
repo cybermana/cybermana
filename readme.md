@@ -1,5 +1,7 @@
 # Welcome to Cybermana - Helping you unlock the power of your cyber resilience
 
+![Cybermana](https://cybermana.net/wp-content/uploads/2020/09/logo_transparent_background-768x309.png)
+
 ## About Cybermana
 
 Do you know your threats from your risks? Your hackers from your malware? Do you feel that your business can withstand and recover from the latest security challenges?
