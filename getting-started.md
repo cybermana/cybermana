@@ -12,7 +12,9 @@ So regardless of whether you are a Github Master or a Github N00b, we want to em
 
 So lets get started...
 
-## Step 1 - The boring stuff. What is Github and how does Git work?
+## Step 1 - What is Github and how does Git work?
+
+### Great resources!
 
 - Markdown: David Anson has published a great Github repo about the markdown lint and the rules around it. [Check it out here](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md#md041)
 - What about emoji's? Rafael Xavier de Souza's repo has some great ideas around that. [Check out Rafael's repo here](https://gist.github.com/rxaviers/7360908)
