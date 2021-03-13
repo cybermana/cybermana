@@ -28,10 +28,10 @@ Key themes/topics that we talk about include:
 - Securing cloud platforms such as Microsoft Azure, AWS and Google Cloud Platform (GCP)
 - Threat protection with Microsoft Defender
 
-    *Defender for Endpoint
-    *Defender for Office
-    *Defender for Servers
-    *Cloud App Security
+  - Defender for Endpoint
+  - Defender for Office
+  - Defender for Servers
+  - Cloud App Security
 
 - Threat hunting with the Kusto Query Language (KQL)
 - Scripts and utilities that will help you find vulnerabilities and secure your environment
@@ -39,7 +39,7 @@ Key themes/topics that we talk about include:
 ## Join the community
 
 - Want to help others by contributing? [Cybermana Contribution Guidelines](https://github.com/cybermana/cybermana/blob/master/contributing.md)
-- Checkout the Cybermana Blog (https://cybermana.net)
+- Checkout the Cybermana Blog (<https://cybermana.net>)
 - Join our [LinkedIn Community](https://www.linkedin.com/company/cybermana)
 - Join our [Facebook Community](https://www.facebook.com/cybermanaUK/ )
 - Follow us on [Twitter](https://twitter.com/CybermanaUK )
