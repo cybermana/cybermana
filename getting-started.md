@@ -10,17 +10,15 @@ So lets get started...
 
 ## Step 1 - What is Github and how does Git work?
 
-## Step 2 - Lets get your environment setup
+## Step 2 - Setup a Github account
 
-There are a thousand and one ways in which you can set up your environment so you can not only learn more about Github but also start contributing to the Cybermana community.
+## Step 3 - Lets get your environment setup
 
-The setup we've found works really well, particularly with the Microsoft cloud is:
+## Step 4 - Create your first repo and clone it to your environment
 
-1. Visual Studio Code (or VSCode) - This is a lightweight, integrated development environment (IDE) that is fast and very easy to use.
-2. Github Desktop - Well we couldn't talk Github without playing with this one.
-3. Visual Studio Extensions - This is one of the best bits about VSCode. There are literally thousands of opportunities here. So we'll walk you through some of them.
+## Step 5 - Publish changes to your repo
 
-## Continue your Github journey
+## Continuing your Github journey
 
 This **Getting Started** guide is intended to help you get started. Our biggest piece of advice would be to continue your Github journey so you can become a Github Master.
 
